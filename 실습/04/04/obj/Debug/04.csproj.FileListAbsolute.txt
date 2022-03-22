@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\김이레\2022\객체지향프로그래밍\실습\04\04\bin\Debug\04.exe.config
+C:\Users\User\Desktop\김이레\2022\객체지향프로그래밍\실습\04\04\bin\Debug\04.exe
+C:\Users\User\Desktop\김이레\2022\객체지향프로그래밍\실습\04\04\bin\Debug\04.pdb
+C:\Users\User\Desktop\김이레\2022\객체지향프로그래밍\실습\04\04\obj\Debug\04.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\김이레\2022\객체지향프로그래밍\실습\04\04\obj\Debug\04.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\김이레\2022\객체지향프로그래밍\실습\04\04\obj\Debug\04.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\김이레\2022\객체지향프로그래밍\실습\04\04\obj\Debug\04.exe
+C:\Users\User\Desktop\김이레\2022\객체지향프로그래밍\실습\04\04\obj\Debug\04.pdb
